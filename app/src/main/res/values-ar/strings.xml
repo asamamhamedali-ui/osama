@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">قُلْ لِي لِمَاذَا لَا تُصَلِّي يَا نَاسِي الصَّلَوَاتِ قُلْ لِي</string>
+    <string name="dedication_title">صدقة جارية عن روح جدتي الغالية رحمها الله</string>
+    <string name="dedication_arabic">اللهم اغفر لجدتي وارحمها، وعافها واعف عنها، وأكرم نزلها، ووسع مدخلها، واجعل قبرها روضة من رياض الجنة</string>
+    <string name="dedication_translation">نسألكم الدعاء لها بالمغفرة والرحمة وأن يجمعنا بها في مستقر رحمته بالفردوس الأعلى.</string>
+    <string name="dua_request_notice">هذا التطبيق صدقة جارية بالكامل وبدون أي إعلانات أو مقابل مادي. نرجو من كل من يستفيد منه أن يدعو لجدتي بالرحمة والمغفرة عند كل أذان وصلورة.</string>
+    <string name="dua_button">اللهم آمين يا رب العالمين</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الأوقات</string>
+    <string name="nav_quran">القرآن</string>
+    <string name="nav_qibla">القبلة</string>
+    <string name="nav_tasbih">المسبحة</string>
+    <string name="nav_adhkar">الأذكار</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Prayers -->
+    <string name="prayer_fajr">الفجر</string>
+    <string name="prayer_sunrise">الشروق</string>
+    <string name="prayer_dhuhr">الظهر</string>
+    <string name="prayer_asr">العصر</string>
+    <string name="prayer_maghrib">المغرب</string>
+    <string name="prayer_isha">العشاء</string>
+    <string name="next_prayer_in">الصلاة القادمة بعد</string>
+    <string name="time_for">حان الآن موعد صلاة %1$s</string>
+    <string name="stop_adhan">إيقاف الأذان</string>
+    <string name="snooze_reminder">تذكير بعد 10 دقائق</string>
+
+    <!-- Qibla -->
+    <string name="qibla_title">بوصلة القبلة</string>
+    <string name="qibla_bearing">اتجاه الكعبة: %1$d°</string>
+    <string name="qibla_distance">%1$,d كم إلى مكة المكرمة</string>
+    <string name="qibla_calibrate">يرجى تحريك الهاتف بحركة 8 لمعايرة حساس البوصلة</string>
+    <string name="qibla_aligned">أنت تواجه القبلة المشرفة بدقة</string>
+
+    <!-- Quran -->
+    <string name="quran_title">القرآن الكريم</string>
+    <string name="surahs">السور</string>
+    <string name="juz">الأجزاء</string>
+    <string name="search_surah">ابحث عن سورة أو آية…</string>
+    <string name="verses_count">%1$d آية</string>
+    <string name="meccan">مكية</string>
+    <string name="medinan">مدنية</string>
+    <string name="reciter">القارئ</string>
+    <string name="play_recitation">استماع للآيات</string>
+    <string name="pause_recitation">إيقاف مؤقت</string>
+    <string name="font_size">حجم خط المصحف</string>
+    <string name="translation_toggle">عرض التفسير والترجمة</string>
+
+    <!-- Tasbih -->
+    <string name="tasbih_title">السبحة الإلكترونية</string>
+    <string name="tasbih_subhanallah">سبحان الله</string>
+    <string name="tasbih_alhamdulillah">الحمد لله</string>
+    <string name="tasbih_allahuakbar">الله أكبر</string>
+    <string name="tasbih_astaghfirullah">أستغفر الله</string>
+    <string name="tasbih_lailahaillallah">لا إله إلا الله</string>
+    <string name="lap_count">الدورة: %1$d</string>
+    <string name="reset">تصفير</string>
+
+    <!-- Adhkar -->
+    <string name="adhkar_title">الأذكار اليومية</string>
+    <string name="adhkar_morning">أذكار الصباح</string>
+    <string name="adhkar_evening">أذكار المساء</string>
+    <string name="adhkar_after_prayer">أذكار بعد الصلاة</string>
+
+    <!-- Settings -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="calculation_method">طريقة الحساب</string>
+    <string name="juristic_method">المذهب الفقهي للعصر</string>
+    <string name="shafi_standard">الجمهور (شافعي / مالكي / حنبلي)</string>
+    <string name="hanafi_method">الحنفي</string>
+    <string name="muezzin_voice">صوت الأذان</string>
+    <string name="muezzin_makkah">أذان مكة المكرمة</string>
+    <string name="muezzin_madinah">أذان المدينة المنورة</string>
+    <string name="muezzin_fajr">أذان الفجر (الصلاة خير من النوم)</string>
+    <string name="muezzin_takbeer">تكبيرات فقط</string>
+    <string name="preview_audio">تجربة الصوت</string>
+    <string name="battery_optimization_title">دقة انطلاق الأذان بالخلفية</string>
+    <string name="battery_optimization_desc">لضمان انطلاق صوت الأذان في موعده تماماً عند قفل الشاشة، يرجى استثناء التطبيق من قيود توفير طاقة البطارية.</string>
+    <string name="battery_optimization_button">فتح إعدادات البطارية</string>
+    <string name="about_dedication">عن التطبيق والإهداء</string>
+    <string name="location_permission_needed">يتطلب التطبيق إذن الموقع لتحديد مواقيت الصلاة واتجاه القبلة بدقة.</string>
+    <string name="grant_permission">السماح بتحديد الموقع</string>
+    <string name="manual_location">اختيار المدينة يدوياً</string>
+</resources>

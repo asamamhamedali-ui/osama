@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">قُلْ لِي لِمَاذَا لَا تُصَلِّي يَا نَاسِي الصَّلَوَاتِ قُلْ لِي</string>
+    <string name="dedication_title">In Loving Memory of My Beloved Grandmother</string>
+    <string name="dedication_arabic">اللهم اغفر لجدتي وارحمها، وعافها واعف عنها، وأكرم نزلها، ووسع مدخلها، واجعل قبرها روضة من رياض الجنة</string>
+    <string name="dedication_translation">\"O Allah, forgive my grandmother and have mercy upon her, pardon her and grant her ease, honour her dwelling, expand her entrance, and make her grave a garden from the gardens of Paradise.\"</string>
+    <string name="dua_request_notice">This application is a perpetual charity (Sadaqah Jariyah) without ads or fees. We respectfully ask everyone who uses this app to offer a heartfelt prayer (dua) for her mercy and eternal forgiveness.</string>
+    <string name="dua_button">Ameen / دعاكم لها بالرحمة</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Prayers</string>
+    <string name="nav_quran">Quran</string>
+    <string name="nav_qibla">Qibla</string>
+    <string name="nav_tasbih">Tasbih</string>
+    <string name="nav_adhkar">Adhkar</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Prayers -->
+    <string name="prayer_fajr">Fajr</string>
+    <string name="prayer_sunrise">Sunrise</string>
+    <string name="prayer_dhuhr">Dhuhr</string>
+    <string name="prayer_asr">Asr</string>
+    <string name="prayer_maghrib">Maghrib</string>
+    <string name="prayer_isha">Isha</string>
+    <string name="next_prayer_in">Next prayer in</string>
+    <string name="time_for">Time for %1$s prayer</string>
+    <string name="stop_adhan">Dismiss</string>
+    <string name="snooze_reminder">Snooze 10m</string>
+
+    <!-- Qibla -->
+    <string name="qibla_title">Qibla Compass</string>
+    <string name="qibla_bearing">Kaaba Direction: %1$d°</string>
+    <string name="qibla_distance">%1$,d km to Makkah Al-Mukarramah</string>
+    <string name="qibla_calibrate">Move your phone in a figure-8 motion to calibrate the compass sensor</string>
+    <string name="qibla_aligned">Aligned with the Holy Kaaba</string>
+
+    <!-- Quran -->
+    <string name="quran_title">The Holy Quran</string>
+    <string name="surahs">Surahs</string>
+    <string name="juz">Juz</string>
+    <string name="search_surah">Search Surah or Ayah…</string>
+    <string name="verses_count">%1$d Verses</string>
+    <string name="meccan">Meccan</string>
+    <string name="medinan">Medinan</string>
+    <string name="reciter">Reciter</string>
+    <string name="play_recitation">Play Recitation</string>
+    <string name="pause_recitation">Pause</string>
+    <string name="font_size">Quran Font Size</string>
+    <string name="translation_toggle">Show Translation</string>
+
+    <!-- Tasbih -->
+    <string name="tasbih_title">Digital Tasbih</string>
+    <string name="tasbih_subhanallah">SubhanAllah</string>
+    <string name="tasbih_alhamdulillah">Alhamdulillah</string>
+    <string name="tasbih_allahuakbar">Allahu Akbar</string>
+    <string name="tasbih_astaghfirullah">Astaghfirullah</string>
+    <string name="tasbih_lailahaillallah">La Ilaha Illa Allah</string>
+    <string name="lap_count">Lap: %1$d</string>
+    <string name="reset">Reset</string>
+
+    <!-- Adhkar -->
+    <string name="adhkar_title">Daily Adhkar</string>
+    <string name="adhkar_morning">Morning Adhkar</string>
+    <string name="adhkar_evening">Evening Adhkar</string>
+    <string name="adhkar_after_prayer">After Prayer Adhkar</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="calculation_method">Calculation Method</string>
+    <string name="juristic_method">Asr Juristic Method</string>
+    <string name="shafi_standard">Shafi / Maliki / Hanbali</string>
+    <string name="hanafi_method">Hanafi</string>
+    <string name="muezzin_voice">Muezzin Sound</string>
+    <string name="muezzin_makkah">Makkah Al-Mukarramah</string>
+    <string name="muezzin_madinah">Al-Madinah Al-Munawwarah</string>
+    <string name="muezzin_fajr">Special Fajr Adhan</string>
+    <string name="muezzin_takbeer">Short Takbeer Alert</string>
+    <string name="preview_audio">Preview Sound</string>
+    <string name="battery_optimization_title">Reliable Background Adhan</string>
+    <string name="battery_optimization_desc">To ensure the Adhan rings on time when the device is locked, please disable battery optimization for this app.</string>
+    <string name="battery_optimization_button">Battery Settings</string>
+    <string name="about_dedication">About &amp; Dedication</string>
+    <string name="location_permission_needed">Location access is required to compute precise local prayer times and Qibla direction.</string>
+    <string name="grant_permission">Enable Location</string>
+    <string name="manual_location">Select City Manually</string>
+</resources>
